@@ -48,5 +48,5 @@ MP:0013586	"thymus medulla atrophy"	UBERON:0002124	"medulla of thymus"
 MP:0004894	"uterus atrophy"	UBERON:0000995	"uterus"
 MP:0004895	"vagina atrophy"	UBERON:0000996	"vagina"
 MP:0009212	"vulva atrophy"	UBERON:0000997	"mammalian vulva"
-TEST:0000001	epithelial cell atrophy	CL:0000066 	epithelial cell
+TEST:0000001	"epithelial cell atrophy"	CL:0000066 	"epithelial cell"
 
